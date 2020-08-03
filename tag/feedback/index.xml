@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feedback | Kate Pyper</title>
-    <link>https://kate-pyper.github.io/tag/feedback/</link>
-      <atom:link href="https://kate-pyper.github.io/tag/feedback/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/feedback/</link>
+      <atom:link href="/tag/feedback/index.xml" rel="self" type="application/rss+xml" />
     <description>Feedback</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kate-pyper.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Feedback</title>
-      <link>https://kate-pyper.github.io/tag/feedback/</link>
+      <link>/tag/feedback/</link>
     </image>
     
     <item>
       <title>Getting Feedback from Student Reflection</title>
-      <link>https://kate-pyper.github.io/post/student-reflection-for-feedback/student-reflection-for-feedback/</link>
+      <link>/post/student-reflection-for-feedback/student-reflection-for-feedback/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/post/student-reflection-for-feedback/student-reflection-for-feedback/</guid>
+      <guid>/post/student-reflection-for-feedback/student-reflection-for-feedback/</guid>
       <description>&lt;p&gt;In my quest to provide a happy and helpful virtual classroom, I&amp;rsquo;ve recently been thinking a lot about feedback. I know that it is important for me to give students timely and useful feedback, and I&amp;rsquo;m building that in to various aspects of the class. I&amp;rsquo;ve recently been focussed on getting useful feedback from students.&lt;/p&gt;
 &lt;p&gt;I remember being an undergrad student and being asked at the end of a course to fill out a feedback form. I also remember finding that really annoying because I don&amp;rsquo;t get to see the benefit of any of that feedback. I wanted to make the effort to change things that students needed help with as the course progressed.&lt;/p&gt;
 &lt;p&gt;In my regression class last year I tried to collect more feedback, and asked students to fill in a short (four questions) questionnaire each week online. This wasn&amp;rsquo;t particularly successful - out of a class of around 200 I would get around 10 responses each week. However, I will say that the responses the I did get helped me to either make useful changes to the course material (e.g. adding video content or additional exercises where people highlighted issues) or to address why I was teaching things in a particular way.&lt;/p&gt;
@@ -31,16 +31,74 @@
 &lt;h3 id=&#34;part-1-reflection-on-effort-and-understanding&#34;&gt;Part 1: Reflection on Effort and Understanding&lt;/h3&gt;
 &lt;p&gt;The first section, which I only plan on looking at over the class as a whole, asks the students to reflect on how much effort they have put in over the week and how they would rate their understanding. I&amp;rsquo;m hoping that the anonymity of the feedback module will encourage students to think honestly about this, which will therefore drive some level of student responsibility.&lt;/p&gt;
 &lt;p&gt;This first part consists of two multiple choice questions as shown below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://kate-pyper.github.io/post/Student-Reflection-for-Feedback/effort_understanding.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/effort_understanding.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;/img/effort_understanding.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;For the first question, it is relevant to note that I&amp;rsquo;ve designed the online materials to take somewhere between 6 and 8 hours, to keep it roughly in line with the 6 hours of contact time that they would get if they were taking the class face-to-face. The course is a 20 credit model spread over 10 weeks, so in theory the students would be expected to spend 20 hours per week on the class.&lt;/p&gt;
 &lt;p&gt;Since this course is aimed at MSc students, I&amp;rsquo;m not particularly concerned with individual time management, but would be interested to see how much time students spend on the materials overall. I may reconsider this when I modify this course for the second year undergraduates.&lt;/p&gt;
 &lt;p&gt;The second question is about the student reflecting on their own understanding. I&amp;rsquo;m asking students to use this as a reflection tool and this isn&amp;rsquo;t something that I&amp;rsquo;ll look into beyond the overall class level. I&amp;rsquo;m also considering adding my contact details to this question to encourage students who would place their understanding in the bottom three categories to contact me to arrange a meeting.&lt;/p&gt;
 &lt;h3 id=&#34;part-2-reflection-on-the-materials&#34;&gt;Part 2: Reflection on the Materials&lt;/h3&gt;
 &lt;p&gt;The second section will ask the students to reflect on the materials. There will be four questions (technically one is a sub-question) which allow the students to identify areas that they would like more information, areas that they felt were good and areas where they feel that some improvement could be made. These can be seen below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://kate-pyper.github.io/post/Student-Reflection-for-Feedback/Materials.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Materials.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;/img/Materials.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;I have tried to be careful with the wording of these questions, so that they take me out of the equation and put the ownership onto the students and what they want.&lt;/p&gt;
 &lt;p&gt;The first two questions are grouped together, and identify the concepts that students want more information about. This allows the students to identify areas where they need to focus their energy, and will also give me the opportunity to update materials where indicated by several students, or add information to the Q&amp;amp;A thread discussed 
-&lt;a href=&#34;https://kate-pyper.github.io/post/first-step-to-blended/first-step-to-blended/&#34;&gt;in my previous post&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;/post/first-step-to-blended/first-step-to-blended/&#34;&gt;in my previous post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The next question asks students to identify activities that they have found most useful. This will encourage the students to think about what they have found more straightforward. By asking &amp;ldquo;Why?&amp;rdquo; I&amp;rsquo;m trying to encourage information about specifically what is good. I can then use this information to enrich other activities.&lt;/p&gt;
 &lt;p&gt;The final question asks students about what acitivites could be (should be?) improved. This will (I hope) help students to identify sticking points in the materials, and will help them to develop an understanding of how they learn best. I am trying to ellicit a bit more information by asking what they would change about the activity. This information, again will be valuable in helping me to identify things in each activity that I should by trying to avoid doing (and potentially replace these aspects with ideas from the previous question.)&lt;/p&gt;
 &lt;h2 id=&#34;other-aspects-of-feedback&#34;&gt;Other Aspects of Feedback&lt;/h2&gt;
@@ -50,7 +108,36 @@
 &lt;p&gt;I&amp;rsquo;ll be able to use this to identify students who need additional support, so that I can try to encourage these students to ask for help.&lt;/p&gt;
 &lt;h3 id=&#34;student-engagement&#34;&gt;Student Engagement&lt;/h3&gt;
 &lt;p&gt;It is always a bit more difficult to measure student engagement. How do you know if a student has actually watched a video or read some text? (spoiler: you don&amp;rsquo;t really.) Moodle contains the option to add a completion progress block to your class page (note that the completion block shown below is from a class with two weeks&amp;rsquo; worth of activities).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://kate-pyper.github.io/post/Student-Reflection-for-Feedback/completion_tracking.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/completion_tracking.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;/img/completion_tracking.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Each block corresponds to an activity, and will turn yellow for partially completed activities and green for completed activities.&lt;/p&gt;
 &lt;p&gt;I plan on using this, along with sensibly defined parameters for completion tracking in each activity to monitor student engagement (e.g. completed lesson or require a page to be viewed). Since I&amp;rsquo;m only trying to get a general overview of student completion this is sufficient.&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I. Khadra | Kate Pyper</title>
-    <link>https://kate-pyper.github.io/author/i.-khadra/</link>
-      <atom:link href="https://kate-pyper.github.io/author/i.-khadra/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/i.-khadra/</link>
+      <atom:link href="/author/i.-khadra/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Khadra</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kate-pyper.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>I. Khadra</title>
-      <link>https://kate-pyper.github.io/author/i.-khadra/</link>
+      <link>/author/i.-khadra/</link>
     </image>
     
     <item>
       <title>Multidimensional analysis of human intestinal fluid composition</title>
-      <link>https://kate-pyper.github.io/publication/intestinalfluid/</link>
+      <link>/publication/intestinalfluid/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/publication/intestinalfluid/</guid>
+      <guid>/publication/intestinalfluid/</guid>
       <description></description>
     </item>
     

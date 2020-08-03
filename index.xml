@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kate Pyper</title>
-    <link>https://kate-pyper.github.io/</link>
-      <atom:link href="https://kate-pyper.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Kate Pyper</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kate-pyper.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kate Pyper</title>
-      <link>https://kate-pyper.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://kate-pyper.github.io/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://kate-pyper.github.io/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://kate-pyper.github.io/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://kate-pyper.github.io/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://kate-pyper.github.io/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,9 +78,9 @@
     
     <item>
       <title>Getting Feedback from Student Reflection</title>
-      <link>https://kate-pyper.github.io/post/student-reflection-for-feedback/student-reflection-for-feedback/</link>
+      <link>/post/student-reflection-for-feedback/student-reflection-for-feedback/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/post/student-reflection-for-feedback/student-reflection-for-feedback/</guid>
+      <guid>/post/student-reflection-for-feedback/student-reflection-for-feedback/</guid>
       <description>&lt;p&gt;In my quest to provide a happy and helpful virtual classroom, I&amp;rsquo;ve recently been thinking a lot about feedback. I know that it is important for me to give students timely and useful feedback, and I&amp;rsquo;m building that in to various aspects of the class. I&amp;rsquo;ve recently been focussed on getting useful feedback from students.&lt;/p&gt;
 &lt;p&gt;I remember being an undergrad student and being asked at the end of a course to fill out a feedback form. I also remember finding that really annoying because I don&amp;rsquo;t get to see the benefit of any of that feedback. I wanted to make the effort to change things that students needed help with as the course progressed.&lt;/p&gt;
 &lt;p&gt;In my regression class last year I tried to collect more feedback, and asked students to fill in a short (four questions) questionnaire each week online. This wasn&amp;rsquo;t particularly successful - out of a class of around 200 I would get around 10 responses each week. However, I will say that the responses the I did get helped me to either make useful changes to the course material (e.g. adding video content or additional exercises where people highlighted issues) or to address why I was teaching things in a particular way.&lt;/p&gt;
@@ -95,16 +95,74 @@
 &lt;h3 id=&#34;part-1-reflection-on-effort-and-understanding&#34;&gt;Part 1: Reflection on Effort and Understanding&lt;/h3&gt;
 &lt;p&gt;The first section, which I only plan on looking at over the class as a whole, asks the students to reflect on how much effort they have put in over the week and how they would rate their understanding. I&amp;rsquo;m hoping that the anonymity of the feedback module will encourage students to think honestly about this, which will therefore drive some level of student responsibility.&lt;/p&gt;
 &lt;p&gt;This first part consists of two multiple choice questions as shown below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://kate-pyper.github.io/post/Student-Reflection-for-Feedback/effort_understanding.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/effort_understanding.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;/img/effort_understanding.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;For the first question, it is relevant to note that I&amp;rsquo;ve designed the online materials to take somewhere between 6 and 8 hours, to keep it roughly in line with the 6 hours of contact time that they would get if they were taking the class face-to-face. The course is a 20 credit model spread over 10 weeks, so in theory the students would be expected to spend 20 hours per week on the class.&lt;/p&gt;
 &lt;p&gt;Since this course is aimed at MSc students, I&amp;rsquo;m not particularly concerned with individual time management, but would be interested to see how much time students spend on the materials overall. I may reconsider this when I modify this course for the second year undergraduates.&lt;/p&gt;
 &lt;p&gt;The second question is about the student reflecting on their own understanding. I&amp;rsquo;m asking students to use this as a reflection tool and this isn&amp;rsquo;t something that I&amp;rsquo;ll look into beyond the overall class level. I&amp;rsquo;m also considering adding my contact details to this question to encourage students who would place their understanding in the bottom three categories to contact me to arrange a meeting.&lt;/p&gt;
 &lt;h3 id=&#34;part-2-reflection-on-the-materials&#34;&gt;Part 2: Reflection on the Materials&lt;/h3&gt;
 &lt;p&gt;The second section will ask the students to reflect on the materials. There will be four questions (technically one is a sub-question) which allow the students to identify areas that they would like more information, areas that they felt were good and areas where they feel that some improvement could be made. These can be seen below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://kate-pyper.github.io/post/Student-Reflection-for-Feedback/Materials.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Materials.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;/img/Materials.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;I have tried to be careful with the wording of these questions, so that they take me out of the equation and put the ownership onto the students and what they want.&lt;/p&gt;
 &lt;p&gt;The first two questions are grouped together, and identify the concepts that students want more information about. This allows the students to identify areas where they need to focus their energy, and will also give me the opportunity to update materials where indicated by several students, or add information to the Q&amp;amp;A thread discussed 
-&lt;a href=&#34;https://kate-pyper.github.io/post/first-step-to-blended/first-step-to-blended/&#34;&gt;in my previous post&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;/post/first-step-to-blended/first-step-to-blended/&#34;&gt;in my previous post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The next question asks students to identify activities that they have found most useful. This will encourage the students to think about what they have found more straightforward. By asking &amp;ldquo;Why?&amp;rdquo; I&amp;rsquo;m trying to encourage information about specifically what is good. I can then use this information to enrich other activities.&lt;/p&gt;
 &lt;p&gt;The final question asks students about what acitivites could be (should be?) improved. This will (I hope) help students to identify sticking points in the materials, and will help them to develop an understanding of how they learn best. I am trying to ellicit a bit more information by asking what they would change about the activity. This information, again will be valuable in helping me to identify things in each activity that I should by trying to avoid doing (and potentially replace these aspects with ideas from the previous question.)&lt;/p&gt;
 &lt;h2 id=&#34;other-aspects-of-feedback&#34;&gt;Other Aspects of Feedback&lt;/h2&gt;
@@ -114,7 +172,36 @@
 &lt;p&gt;I&amp;rsquo;ll be able to use this to identify students who need additional support, so that I can try to encourage these students to ask for help.&lt;/p&gt;
 &lt;h3 id=&#34;student-engagement&#34;&gt;Student Engagement&lt;/h3&gt;
 &lt;p&gt;It is always a bit more difficult to measure student engagement. How do you know if a student has actually watched a video or read some text? (spoiler: you don&amp;rsquo;t really.) Moodle contains the option to add a completion progress block to your class page (note that the completion block shown below is from a class with two weeks&amp;rsquo; worth of activities).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://kate-pyper.github.io/post/Student-Reflection-for-Feedback/completion_tracking.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/completion_tracking.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;/img/completion_tracking.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Each block corresponds to an activity, and will turn yellow for partially completed activities and green for completed activities.&lt;/p&gt;
 &lt;p&gt;I plan on using this, along with sensibly defined parameters for completion tracking in each activity to monitor student engagement (e.g. completed lesson or require a page to be viewed). Since I&amp;rsquo;m only trying to get a general overview of student completion this is sufficient.&lt;/p&gt;
 </description>
@@ -122,27 +209,27 @@
     
     <item>
       <title>MM206: Mathematical and Statistical Computing</title>
-      <link>https://kate-pyper.github.io/teaching/mm206/mm206/</link>
+      <link>/teaching/mm206/mm206/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/teaching/mm206/mm206/</guid>
+      <guid>/teaching/mm206/mm206/</guid>
       <description>&lt;p&gt;This is a 10 week module that introduces R and the RStudio IDE. It also introduces students to programming structures in R, functional programming techniques and the Tidyverse.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MM915: Spatial Statistics</title>
-      <link>https://kate-pyper.github.io/teaching/mm915/mm915/</link>
+      <link>/teaching/mm915/mm915/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/teaching/mm915/mm915/</guid>
+      <guid>/teaching/mm915/mm915/</guid>
       <description>&lt;p&gt;MM915 is a 5 week module covering geospatial data, Bayesian statistics, areal unit modelling and point processes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MM916: Data Analytics in R</title>
-      <link>https://kate-pyper.github.io/teaching/mm916/mm916/</link>
+      <link>/teaching/mm916/mm916/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/teaching/mm916/mm916/</guid>
+      <guid>/teaching/mm916/mm916/</guid>
       <description>&lt;p&gt;This course is a 10 week module that covers an introduction to programming in R and regression modelling. Each part makes up five weeks of the course, with the programming materials coming ahead of the regression materials.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://classes.myplace.strath.ac.uk/course/view.php?id=21580&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MyPlace Link&lt;/a&gt; (only accessible with University of Strathclyde credentials)&lt;/p&gt;
@@ -151,9 +238,9 @@
     
     <item>
       <title>The Initial Step Towards a Blended Classroom</title>
-      <link>https://kate-pyper.github.io/post/first-step-to-blended/first-step-to-blended/</link>
+      <link>/post/first-step-to-blended/first-step-to-blended/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/post/first-step-to-blended/first-step-to-blended/</guid>
+      <guid>/post/first-step-to-blended/first-step-to-blended/</guid>
       <description>&lt;p&gt;This is my first ever blog post. I decided to start a blog to give me a place to write down some thoughts on my teaching, particularly as we head into a unique year thanks to Covid!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m doing a PGCert in learning and teaching in higher education and have now taken 40 credits worth of classes. I&amp;rsquo;m really interested in the different teaching and learning pedagogies and wanted to try something totally new. Specifically I&amp;rsquo;m keen to implement blended learning in my classes, which isn&amp;rsquo;t currently the norm in my department.&lt;/p&gt;
 &lt;p&gt;If I&amp;rsquo;ve learned anything from my PGCert so far it&amp;rsquo;s that reflecting on teaching practice is really important. For context, I&amp;rsquo;ve taken over a class for the next academic year that has been in its current state since its creation (around 10 years ago I think) and I&amp;rsquo;m keen to make some fairly big changes to it. I&amp;rsquo;m definitely expecting some challenges to pop up along the way and wanted to have a dedicated space to keep track of the changes that I&amp;rsquo;ve made, along with my successes and failures. If anyone happens to come across this and have a bit of discussion around anything then that&amp;rsquo;s definitely a bonus!&lt;/p&gt;
@@ -185,33 +272,33 @@
     
     <item>
       <title>Quantifying the impact of the modifiable areal unit problem when estimating the health effects of air pollution</title>
-      <link>https://kate-pyper.github.io/publication/airpollutiondunc/</link>
+      <link>/publication/airpollutiondunc/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/publication/airpollutiondunc/</guid>
+      <guid>/publication/airpollutiondunc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidimensional analysis of human intestinal fluid composition</title>
-      <link>https://kate-pyper.github.io/publication/intestinalfluid/</link>
+      <link>/publication/intestinalfluid/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/publication/intestinalfluid/</guid>
+      <guid>/publication/intestinalfluid/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Use of the online poisons information database TOXBASE and admissions rates for poisoned patients from emergency departments in England and Wales during 2008 to 2015</title>
-      <link>https://kate-pyper.github.io/publication/toxbase2/</link>
+      <link>/publication/toxbase2/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/publication/toxbase2/</guid>
+      <guid>/publication/toxbase2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://kate-pyper.github.io/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -343,25 +430,43 @@ Three
     
     <item>
       <title>Hospital usage of TOXBASE in Great Britain: Temporal trends in accesses 2008 to 2015</title>
-      <link>https://kate-pyper.github.io/publication/toxbase1/</link>
+      <link>/publication/toxbase1/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/publication/toxbase1/</guid>
+      <guid>/publication/toxbase1/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>External Project</title>
-      <link>https://kate-pyper.github.io/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://kate-pyper.github.io/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
