@@ -14,237 +14,34 @@
     
     <item>
       <title>It&#39;s Nearly Showtime</title>
-      <link>https://kate-pyper.github.io/post/nearly-showtime/nearly-showtime/</link>
+      <link>https://kate-pyper.github.io/post/nearly-showtime/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/post/nearly-showtime/nearly-showtime/</guid>
+      <guid>https://kate-pyper.github.io/post/nearly-showtime/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve just entered week 0 (the induction week) of the semester here at Strathclyde, and I&amp;rsquo;ve been working more than usual trying to get good quality content online for the upcoming semester. The first two weeks&amp;rsquo; worth of material is ready to go but there&amp;rsquo;s still 8 weeks left to do - I&amp;rsquo;m definitely not kidding myself that this semester is going to be straightforward.&lt;/p&gt;
 &lt;p&gt;This is going to be a reasonably short post, but i&amp;rsquo;m going to pin point some things that I&amp;rsquo;ve been doing over the past few weeks (some of which to help the students and some because I&amp;rsquo;m a perfectionist and can&amp;rsquo;t help myself).&lt;/p&gt;
 &lt;h3 id=&#34;making-materials-for-offline-as-well-as-online&#34;&gt;Making materials for offline as well as online&lt;/h3&gt;
 &lt;p&gt;I&amp;rsquo;ve spent quite a lot of time making text resources because these transfer a bit easier to students with limited internet access, and some things are just easier to explain in text than in a video. I&amp;rsquo;ve used R-markdown to create this text content, because it allows me to create both html and pdf documents. I&amp;rsquo;ve structured my course so that each small topic comes with text online, generally with some exercises, and then has an associated downloadable pdf document that contains all of the information from the online activity.&lt;/p&gt;
 &lt;p&gt;Since the online text contains embedded exercises. I want to encourage the students to work through these. I&amp;rsquo;ve done this firstly by setting activity completion on the online materials but not on the downloadable materials; and secondly by restricting access to the downloadable materials until the online activity has been attempted (though if a student were unable to access the online activity I would provide access to the PDF document). The image below shows this for one of my activities in week 3.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/Activity_completion.jpg&#34; &gt;
-
-
-  &lt;img src=&#34;https://kate-pyper.github.io/img/Activity_completion.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;./Activity_completion.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;consistent-but-not-consistent&#34;&gt;Consistent but not consistent&lt;/h3&gt;
 &lt;p&gt;I&amp;rsquo;ve tried to keep a fairly consistent weekly structure, with each week being visually similar to each other. Each week starts with a description of the learning objectives, followed by the materials and links to the live zoom sessions that are available each week (see below).&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/LO_general.jpg&#34; &gt;
-
-
-  &lt;img src=&#34;https://kate-pyper.github.io/img/LO_general.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;./LO_general.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The end of the week is also pretty consistent, and consists of the student reflection exercise discussed 
 &lt;a href=&#34;https://kate-pyper.github.io/post/student-reflection-for-feedback/&#34;&gt;in one of my previous posts&lt;/a&gt;, as well as a weekly formative assessment in the form of either a quiz or a submission as shown below.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/summary_materials.jpg&#34; &gt;
-
-
-  &lt;img src=&#34;https://kate-pyper.github.io/img/summary_materials.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;./summary_materials.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;During the week the students will work through a number of activities (I&amp;rsquo;m aiming for somewhere between 6 and 10). Those which contain a lot of information are contained in lessons and those which contain smaller (but no less important) points are contained within pages as demonstrated below.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/Activities.jpg&#34; &gt;
-
-
-  &lt;img src=&#34;https://kate-pyper.github.io/img/Activities.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;./Activities.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Within these activities I have tried to give a bit of variety. There are large elements of text and examples, which are interspersed with the occasional video where I think these are useful. These will also contain some sort of associated activity, be that an online programming activity, or an interactive H5P activity.&lt;/p&gt;
 &lt;p&gt;Overall the goal is to be consistent, though not so consistent that the students get bored.&lt;/p&gt;
 &lt;h3 id=&#34;formatting&#34;&gt;Formatting&lt;/h3&gt;
 &lt;p&gt;Something that I&amp;rsquo;ve found myself enjoying quite a bit recently (and something that I&amp;rsquo;ve become a bit obsessive about) is formatting my materials nicely in MyPlace/Moodle. As I mentioned, I have been using R-markdown to produce HTML materials. I then use the output from that and copy it into the html editor within MyPlace - this is a bit hidden you need to click on the button for more options and then click on the button with &lt;code&gt;&amp;lt;/&amp;gt;&lt;/code&gt; shown on it.&lt;/p&gt;
 &lt;p&gt;One thing to not about this is that MyPlace has been created so that it is difficult to tamper with the themes, which means that it is hit-or-miss whether CSS will work. So I&amp;rsquo;ve had to do the formatting old school and use the style attribute of various HTML tags. I&amp;rsquo;ve saved the commonly used styles into a text document to make this a bit easier. I have styles for the following:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Code and output blocks&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/code_output.jpg&#34; &gt;
-
-
-  &lt;img src=&#34;https://kate-pyper.github.io/img/code_output.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;./code_output.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;blockquotes&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/blockquote.jpg&#34; &gt;
-
-
-  &lt;img src=&#34;https://kate-pyper.github.io/img/blockquote.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;./blockquote.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Information/Instruction Boxes&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/infobox.jpg&#34; &gt;
-
-
-  &lt;img src=&#34;https://kate-pyper.github.io/img/infobox.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;./infobox.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I have also elected to change the default inline code colour for better accessibility.&lt;/p&gt;
 &lt;h3 id=&#34;video-editing&#34;&gt;Video Editing&lt;/h3&gt;
 &lt;p&gt;The final thing that I have been doing over the past few weeks is editing video. I&amp;rsquo;ve used zoom to record since it&amp;rsquo;s easy to get a video of both your face and a shared screen (be that slides or R). You can download a video that contains the shared screen alongside you speaking in a shared box, but I wasn&amp;rsquo;t particularly keen on that. My perfectionist tendencies kicked in here and I decided to try my hand at video editing, so that I could edit out my mistakes and edit together the video stream with my face in it and the video stream showing the shared screen. I&amp;rsquo;ve been using 
@@ -254,9 +51,9 @@
     
     <item>
       <title>Providing Valuable Feedback Online</title>
-      <link>https://kate-pyper.github.io/post/giving-feedback-online/giving-feedback-online/</link>
+      <link>https://kate-pyper.github.io/post/giving-feedback-online/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/post/giving-feedback-online/giving-feedback-online/</guid>
+      <guid>https://kate-pyper.github.io/post/giving-feedback-online/</guid>
       <description>&lt;p&gt;In my 
 &lt;a href=&#34;https://kate-pyper.github.io/post/student-reflection-for-feedback/&#34;&gt;last post&lt;/a&gt; I was thinking about how to get useful feedback from students by asking them to reflect on their learning once a week. This week I&amp;rsquo;m going to make a note on the mechanisms that I have put in place for students to get feedback on their own work.&lt;/p&gt;
 &lt;p&gt;The trickiest part of this for me has been trying to balance giving valuable and insightful feedback with maintaining a reasonable work load. Initially I had thought about asking students to submit an assignment each week that I would mark and give back to them, but it was pointed out by one of my colleagues that this would be a lot of work for me each week. I&amp;rsquo;ve tried to find something that falls somewhere in the middle of that balance, with a mixture of opportunities for automated feedback and more personalised feedback, as well as assessment being provided in multiple different forms.&lt;/p&gt;
@@ -304,7 +101,7 @@
 &lt;h3 id=&#34;part-1-reflection-on-effort-and-understanding&#34;&gt;Part 1: Reflection on Effort and Understanding&lt;/h3&gt;
 &lt;p&gt;The first section, which I only plan on looking at over the class as a whole, asks the students to reflect on how much effort they have put in over the week and how they would rate their understanding. I&amp;rsquo;m hoping that the anonymity of the feedback module will encourage students to think honestly about this, which will therefore drive some level of student responsibility.&lt;/p&gt;
 &lt;p&gt;This first part consists of two multiple choice questions as shown below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./effort_understanding.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./effort_understanding.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;For the first question, it is relevant to note that I&amp;rsquo;ve designed the online materials to take somewhere between 6 and 8 hours, to keep it roughly in line with the 6 hours of contact time that they would get if they were taking the class face-to-face. The course is a 20 credit model spread over 10 weeks, so in theory the students would be expected to spend 20 hours per week on the class.&lt;/p&gt;
 &lt;p&gt;Since this course is aimed at MSc students, I&amp;rsquo;m not particularly concerned with individual time management, but would be interested to see how much time students spend on the materials overall. I may reconsider this when I modify this course for the second year undergraduates.&lt;/p&gt;
 &lt;p&gt;The second question is about the student reflecting on their own understanding. I&amp;rsquo;m asking students to use this as a reflection tool and this isn&amp;rsquo;t something that I&amp;rsquo;ll look into beyond the overall class level. I&amp;rsquo;m also considering adding my contact details to this question to encourage students who would place their understanding in the bottom three categories to contact me to arrange a meeting.&lt;/p&gt;
@@ -313,7 +110,7 @@
 &lt;p&gt;&lt;img src=&#34;./Materials.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I have tried to be careful with the wording of these questions, so that they take me out of the equation and put the ownership onto the students and what they want.&lt;/p&gt;
 &lt;p&gt;The first two questions are grouped together, and identify the concepts that students want more information about. This allows the students to identify areas where they need to focus their energy, and will also give me the opportunity to update materials where indicated by several students, or add information to the Q&amp;amp;A thread discussed 
-&lt;a href=&#34;https://kate-pyper.github.io/post/first-step-to-blended/first-step-to-blended/&#34;&gt;in my previous post&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://kate-pyper.github.io/post/first-step-to-blended/&#34;&gt;in my previous post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The next question asks students to identify activities that they have found most useful. This will encourage the students to think about what they have found more straightforward. By asking &amp;ldquo;Why?&amp;rdquo; I&amp;rsquo;m trying to encourage information about specifically what is good. I can then use this information to enrich other activities.&lt;/p&gt;
 &lt;p&gt;The final question asks students about what acitivites could be (should be?) improved. This will (I hope) help students to identify sticking points in the materials, and will help them to develop an understanding of how they learn best. I am trying to ellicit a bit more information by asking what they would change about the activity. This information, again will be valuable in helping me to identify things in each activity that I should by trying to avoid doing (and potentially replace these aspects with ideas from the previous question.)&lt;/p&gt;
 &lt;h2 id=&#34;other-aspects-of-feedback&#34;&gt;Other Aspects of Feedback&lt;/h2&gt;
@@ -323,36 +120,7 @@
 &lt;p&gt;I&amp;rsquo;ll be able to use this to identify students who need additional support, so that I can try to encourage these students to ask for help.&lt;/p&gt;
 &lt;h3 id=&#34;student-engagement&#34;&gt;Student Engagement&lt;/h3&gt;
 &lt;p&gt;It is always a bit more difficult to measure student engagement. How do you know if a student has actually watched a video or read some text? (spoiler: you don&amp;rsquo;t really.) Moodle contains the option to add a completion progress block to your class page (note that the completion block shown below is from a class with two weeks&amp;rsquo; worth of activities).&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/completion_tracking.jpg&#34; &gt;
-
-
-  &lt;img src=&#34;https://kate-pyper.github.io/img/completion_tracking.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;./completion_tracking.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Each block corresponds to an activity, and will turn yellow for partially completed activities and green for completed activities.&lt;/p&gt;
 &lt;p&gt;I plan on using this, along with sensibly defined parameters for completion tracking in each activity to monitor student engagement (e.g. completed lesson or require a page to be viewed). Since I&amp;rsquo;m only trying to get a general overview of student completion this is sufficient.&lt;/p&gt;
 </description>
