@@ -5,12 +5,252 @@
     <link>https://kate-pyper.github.io/tag/teaching/</link>
       <atom:link href="https://kate-pyper.github.io/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kate-pyper.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching</title>
       <link>https://kate-pyper.github.io/tag/teaching/</link>
     </image>
+    
+    <item>
+      <title>It&#39;s Nearly Showtime</title>
+      <link>https://kate-pyper.github.io/post/what-ive-learned/nearly-showtime/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kate-pyper.github.io/post/what-ive-learned/nearly-showtime/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve just entered week 0 (the induction week) of the semester here at Strathclyde, and I&amp;rsquo;ve been working more than usual trying to get good quality content online for the upcoming semester. The first two weeks&amp;rsquo; worth of material is ready to go but there&amp;rsquo;s still 8 weeks left to do - I&amp;rsquo;m definitely not kidding myself that this semester is going to be straightforward.&lt;/p&gt;
+&lt;p&gt;This is going to be a reasonably short post, but i&amp;rsquo;m going to pin point some things that I&amp;rsquo;ve been doing over the past few weeks (some of which to help the students and some because I&amp;rsquo;m a perfectionist and can&amp;rsquo;t help myself).&lt;/p&gt;
+&lt;h3 id=&#34;making-materials-for-offline-as-well-as-online&#34;&gt;Making materials for offline as well as online&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve spent quite a lot of time making text resources because these transfer a bit easier to students with limited internet access, and some things are just easier to explain in text than in a video. I&amp;rsquo;ve used R-markdown to create this text content, because it allows me to create both html and pdf documents. I&amp;rsquo;ve structured my course so that each small topic comes with text online, generally with some exercises, and then has an associated downloadable pdf document that contains all of the information from the online activity.&lt;/p&gt;
+&lt;p&gt;Since the online text contains embedded exercises. I want to encourage the students to work through these. I&amp;rsquo;ve done this firstly by setting activity completion on the online materials but not on the downloadable materials; and secondly by restricting access to the downloadable materials until the online activity has been attempted (though if a student were unable to access the online activity I would provide access to the PDF document). The image below shows this for one of my activities in week 3.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/Activity_completion.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://kate-pyper.github.io/img/Activity_completion.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;consistent-but-not-consistent&#34;&gt;Consistent but not consistent&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve tried to keep a fairly consistent weekly structure, with each week being visually similar to each other. Each week starts with a description of the learning objectives, followed by the materials and links to the live zoom sessions that are available each week (see below).&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/LO_general.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://kate-pyper.github.io/img/LO_general.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The end of the week is also pretty consistent, and consists of the student reflection exercise discussed 
+&lt;a href=&#34;https://kate-pyper.github.io/post/student-reflection-for-feedback/student-reflection-for-feedback/&#34;&gt;in one of my previous posts&lt;/a&gt;, as well as a weekly formative assessment in the form of either a quiz or a submission as shown below.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/summary_materials.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://kate-pyper.github.io/img/summary_materials.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;During the week the students will work through a number of activities (I&amp;rsquo;m aiming for somewhere between 6 and 10). Those which contain a lot of information are contained in lessons and those which contain smaller (but no less important) points are contained within pages as demonstrated below.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/Activities.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://kate-pyper.github.io/img/Activities.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Within these activities I have tried to give a bit of variety. There are large elements of text and examples, which are interspersed with the occasional video where I think these are useful. These will also contain some sort of associated activity, be that an online programming activity, or an interactive H5P activity.&lt;/p&gt;
+&lt;p&gt;Overall the goal is to be consistent, though not so consistent that the students get bored.&lt;/p&gt;
+&lt;h3 id=&#34;formatting&#34;&gt;Formatting&lt;/h3&gt;
+&lt;p&gt;Something that I&amp;rsquo;ve found myself enjoying quite a bit recently (and something that I&amp;rsquo;ve become a bit obsessive about) is formatting my materials nicely in MyPlace/Moodle. As I mentioned, I have been using R-markdown to produce HTML materials. I then use the output from that and copy it into the html editor within MyPlace - this is a bit hidden you need to click on the button for more options and then click on the button with &lt;code&gt;&amp;lt;/&amp;gt;&lt;/code&gt; shown on it.&lt;/p&gt;
+&lt;p&gt;One thing to not about this is that MyPlace has been created so that it is difficult to tamper with the themes, which means that it is hit-or-miss whether CSS will work. So I&amp;rsquo;ve had to do the formatting old school and use the style attribute of various HTML tags. I&amp;rsquo;ve saved the commonly used styles into a text document to make this a bit easier. I have styles for the following:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Code and output blocks&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/code_output.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://kate-pyper.github.io/img/code_output.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;blockquotes&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/blockquote.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://kate-pyper.github.io/img/blockquote.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Information/Instruction Boxes&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kate-pyper.github.io/img/infobox.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://kate-pyper.github.io/img/infobox.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I have also elected to change the default inline code colour for better accessibility.&lt;/p&gt;
+&lt;h3 id=&#34;video-editing&#34;&gt;Video Editing&lt;/h3&gt;
+&lt;p&gt;The final thing that I have been doing over the past few weeks is editing video. I&amp;rsquo;ve used zoom to record since it&amp;rsquo;s easy to get a video of both your face and a shared screen (be that slides or R). You can download a video that contains the shared screen alongside you speaking in a shared box, but I wasn&amp;rsquo;t particularly keen on that. My perfectionist tendencies kicked in here and I decided to try my hand at video editing, so that I could edit out my mistakes and edit together the video stream with my face in it and the video stream showing the shared screen. I&amp;rsquo;ve been using 
+&lt;a href=&#34;https://shotcut.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shotcut&lt;/a&gt; which is free and also relatively straightforward once you get the hang of it!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Providing Valuable Feedback Online</title>
