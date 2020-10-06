@@ -5,12 +5,40 @@
     <link>https://kate-pyper.github.io/tag/teaching/</link>
       <atom:link href="https://kate-pyper.github.io/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kate-pyper.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching</title>
       <link>https://kate-pyper.github.io/tag/teaching/</link>
     </image>
+    
+    <item>
+      <title>Week 1 &amp; 2 Reflection</title>
+      <link>https://kate-pyper.github.io/post/week-1-reflection/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kate-pyper.github.io/post/week-1-reflection/</guid>
+      <description>&lt;p&gt;The first 2 weeks are done, with far less tech issues than anticipated. I just wanted to take some time to reflect on how it has gone so far.&lt;/p&gt;
+&lt;h2 id=&#34;positives&#34;&gt;Positives&lt;/h2&gt;
+&lt;p&gt;The positives greatly outweigh the negatives which is a very nice position to be in. This is based on my overall impression of how it&amp;rsquo;s gone, as well as the weekly feedback from the students.&lt;/p&gt;
+&lt;h3 id=&#34;engagement&#34;&gt;Engagement&lt;/h3&gt;
+&lt;p&gt;From the start the students have been really engaged with the materials which I think makes this whole experience that bit more positive for everyone. I&amp;rsquo;ve had amazing attendance at the mandatory sessions so far which is great. Even going beyond that students have been willing to chat and ask questions and have videos on during the live Zoom sessions (which is a huge relief - I don&amp;rsquo;t know how I would have manages with a sea of blank squares staring at me).&lt;/p&gt;
+&lt;p&gt;Much to my surprise the forums have been pretty well used too, with students helping to answer each others&amp;rsquo; questions. The class is a mixture of abilities, so this is something that&amp;rsquo;s really nice to see. The students were also randomly allocated to tutorial groups and have taken really well to working together during these sessions.&lt;/p&gt;
+&lt;p&gt;The engagement was down a bit last week - I&amp;rsquo;m hoping that it will pick back up again, and it does seem to be picking up a bit for week 3.&lt;/p&gt;
+&lt;h3 id=&#34;activities&#34;&gt;Activities&lt;/h3&gt;
+&lt;p&gt;The embedded programming exercises have been really well received, and students highlighted these as having been really useful for identifying the small things that they haven&amp;rsquo;t picked up on right away. This was exactly my intention with these so I&amp;rsquo;m really pleased that that has come through and worked as anticipated. I&amp;rsquo;ve tried to keep these simple - both for ease of solution checking and to provide the students with a baseline expectation. The idea is that the exercises provided within the activities will be the minimum that they should know. The tutorial questions then build on this and provide the students with a more difficult set of questions that the students can answer in a more flexible way.&lt;/p&gt;
+&lt;p&gt;The quizzes have been similarly highlighted as being useful, though perhaps a little too straightforward. I think I will need to emphasise the idea of the on MyPlace stuff being a baseline, with the tutorials being the ideal level of knowledge.&lt;/p&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;p&gt;I expected there to be technical issues with running these live sessions, but it actually went very smoothly last week, which was great. The students highlighted that they found the live tutorial sessions useful, since they were able to discuss the problems with the other students, and were able to get help from the class tutors.&lt;/p&gt;
+&lt;h2 id=&#34;not-so-positives&#34;&gt;Not so positives&lt;/h2&gt;
+&lt;p&gt;Within the feedback and based on some of the questions that I was being asked, there are some things around the course that need to be addressed. This is something that I expected, and I&amp;rsquo;m thankful that I&amp;rsquo;m getting such valuable feedback.&lt;/p&gt;
+&lt;h3 id=&#34;wanting-more&#34;&gt;Wanting More&lt;/h3&gt;
+&lt;p&gt;The main theme of the suggested improvements was around students wanting more - more examples, more exercises etc. This has highlighted areas that need to be developed, and areas that I will need to add additional detail to. I&amp;rsquo;ll add these to my to-do list and work through the additions over the next few days and weeks.&lt;/p&gt;
+&lt;p&gt;The key thing that students wanted more of was exercises so I&amp;rsquo;m trying to keep that in mind as I start to develop materials for the upcoming week.&lt;/p&gt;
+&lt;h2 id=&#34;going-forward&#34;&gt;Going Forward&lt;/h2&gt;
+&lt;p&gt;It seems like going forward I just need to keep doing what I&amp;rsquo;ve been doing&amp;hellip;but more!&lt;/p&gt;
+&lt;p&gt;This week I ran into a minor snag - I&amp;rsquo;ve been using Datacamp Lite to run my interactive programming exercises, but the version of the tidyverse packages are not up to date. So I&amp;rsquo;ve had to workaround this&amp;hellip;without a suitably protected server being available at the university yet. I&amp;rsquo;ve had to make a package of tutorial exercises. My first ever package&amp;hellip;how exciting!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>It&#39;s Nearly Showtime</title>
