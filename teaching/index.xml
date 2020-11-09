@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Kate Pyper</title>
-    <link>https://kate-pyper.github.io/teaching/</link>
-      <atom:link href="https://kate-pyper.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>/teaching/</link>
+      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kate-pyper.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching</title>
-      <link>https://kate-pyper.github.io/teaching/</link>
+      <link>/teaching/</link>
     </image>
     
     <item>
       <title>MM206: Mathematical and Statistical Computing</title>
-      <link>https://kate-pyper.github.io/teaching/mm206/mm206/</link>
+      <link>/teaching/mm206/mm206/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/teaching/mm206/mm206/</guid>
+      <guid>/teaching/mm206/mm206/</guid>
       <description>&lt;p&gt;This is a 10 week module that introduces R and the RStudio IDE. It also introduces students to programming structures in R, functional programming techniques and the Tidyverse.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MM915: Spatial Statistics</title>
-      <link>https://kate-pyper.github.io/teaching/mm915/mm915/</link>
+      <link>/teaching/mm915/mm915/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/teaching/mm915/mm915/</guid>
+      <guid>/teaching/mm915/mm915/</guid>
       <description>&lt;p&gt;MM915 is a 5 week module covering geospatial data, Bayesian statistics, areal unit modelling and point processes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MM916: Data Analytics in R</title>
-      <link>https://kate-pyper.github.io/teaching/mm916/mm916/</link>
+      <link>/teaching/mm916/mm916/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kate-pyper.github.io/teaching/mm916/mm916/</guid>
+      <guid>/teaching/mm916/mm916/</guid>
       <description>&lt;p&gt;This course is a 10 week module that covers an introduction to programming in R and regression modelling. Each part makes up five weeks of the course, with the programming materials coming ahead of the regression materials.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://classes.myplace.strath.ac.uk/course/view.php?id=21580&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MyPlace Link&lt;/a&gt; (only accessible with University of Strathclyde credentials)&lt;/p&gt;
