@@ -5,12 +5,43 @@
     <link>/tag/teaching/</link>
       <atom:link href="/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching</title>
       <link>/tag/teaching/</link>
     </image>
+    
+    <item>
+      <title>New Year, New Classes</title>
+      <link>/post/new-year-new-classes/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/post/new-year-new-classes/</guid>
+      <description>&lt;p&gt;Following a slightly extended Christmas break, I&amp;rsquo;ve returned to work feeling refreshed. This semester is going to be (if possible) even busier than last. In Scotland we&amp;rsquo;ve been placed back into lockdown, and no-one is particularly sure when it will be lifted.&lt;/p&gt;
+&lt;p&gt;I wasn&amp;rsquo;t as active with this as I had hoped last semester - there seemed to be too much going on and I admittedly found myself a bit overwhelmed. Admittedly not helped by the fact that I didn&amp;rsquo;t leave the house which was predictably not great from a mental health perspective! However new year new me - I&amp;rsquo;ve decided to commute from home to home by going for a walk before and after work and I&amp;rsquo;m optimistic that I&amp;rsquo;ll keep up with this blog a bit more regularly.&lt;/p&gt;
+&lt;p&gt;I have a lot going on this semester. I&amp;rsquo;ve noted the key teaching related items below.&lt;/p&gt;
+&lt;h2 id=&#34;introduction-to-r-modification-for-2nd-year-undergraduates&#34;&gt;Introduction to R (modification for 2nd Year Undergraduates)&lt;/h2&gt;
+&lt;p&gt;For the first half of this semester I&amp;rsquo;ll be modifying the material that I created for the MSc students last semester so that it is more appropriate for second year undergraduate students.&lt;/p&gt;
+&lt;p&gt;The key change here is to give the younger students more time and support to process information (particularly the concepts that people tend to find difficult). To that end, this material is being delivered over 7 weeks instead of 6.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve decided to keep the key structures in place so the bulk of the materials will be text resources that students can use as a reference. Each of these resources will have some associated embedded exercises that represent a minimum level of knowledge. There will be a quiz at the end of each week to allow students to test their knowledge. Each week I will ask students to reflect on their learning, and specifically think about what they have found easy and what they have found to be challenging.&lt;/p&gt;
+&lt;p&gt;There will be two live sessions each week. One will be run as a tutorial/computer lab, making use of Zoom breakout rooms - this was identified as being particularly useful last semester, so I didn&amp;rsquo;t want to change this. The other live session will be either a drop in session, or a worked example session. This will be decided based on student needs - if students identify particular areas of concern, then these sessions will be used to go over this material live so that students have the opportunity to ask questions. If no key areas are identified then I will use this time as a virtual office hours where students can drop in and ask any questions that they might have.&lt;/p&gt;
+&lt;h2 id=&#34;introduction-to-r-modification-for-cpd&#34;&gt;Introduction to R (modification for CPD)&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve also been asked to modify my Introduction to R materials to form a CPD course. The majority of the MSc content can remain as is. The key consideration here is how to deliver the tutorial content - I am undecided as to whether this should be fully online, or whether there should be synchronous sessions.&lt;/p&gt;
+&lt;p&gt;The advantage to it being fully asynchronous is that participants can fit the course around their schedules more easily. Howeverm part of the fun of CPD is that you meet other people, so in that sense it would be nice to have some form of contact with the participants.&lt;/p&gt;
+&lt;p&gt;This is due in April, so I have plenty of time to consider exactly how I want to approach this.&lt;/p&gt;
+&lt;h2 id=&#34;spatial-statistics-both-fully-online-and-blended&#34;&gt;Spatial Statistics (Both fully online and Blended)&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve just started the process of developing the Spatial Statistics course (this is the class that I&amp;rsquo;ve taught the longest - starting when I was in the final year of my PhD!) for our online MSc in Applied Statistics in Health Sciences. This is useful since I&amp;rsquo;ll be teaching this largely online starting in 5 weeks&amp;rsquo; time.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently in the planning stage of this but I have a general idea of how I want the content to look. There are essentially three parts to each topic - The Theory Bit, The Programming Bit and The Example. I want these to take a fairly consistent form as described below. Each week will also contain an exercise for students to work through completely independently, general solutions to this will be provided either as aset of notes, or via video.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Theory Bit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I want all theoretical aspects of the course to be delivered via video. I personally find it easier to express concepts when I can point to things, or circle things. Video is the best medium for this. Each video will be supported by a set of slides, so that students have something that is easy to look back on.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Programming Bit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve found that programming is easiest to describe via text, with code snippets included. For this particular aspect, I think that students are likely to want to refer back to materials which is much easier in text than in a video. For this I also want the text to follow the process, so this will also contain a reiteration of some of the theoretical aspects, but in less depth than the videos.&lt;/p&gt;
+&lt;p&gt;These will include short, simple programming exercises so that there is an opportunity to practice the various aspects of programming independently.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Example&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For each &amp;ldquo;chunk&amp;rdquo; of content, there will be an example. I want this to be an opportunity for active learning, so I have decided that I would like these aspects of the classto be interactive videos. I will guide the students through the process via video, but ask questions throughout so that they are thinking about the interpretation as we go through. Essentially this is the High-tech version of &amp;ldquo;Pause the video and think about this for a minute&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;I did have a couple of interactive videos in my course last semester. These were very well received, so I&amp;rsquo;m hoping that students will find these interactive videos just as useful.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Part 1 Reflection</title>
