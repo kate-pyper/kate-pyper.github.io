@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development | Kate Pyper</title>
+    <link>https://kate-pyper.github.io/tag/development/</link>
+      <atom:link href="https://kate-pyper.github.io/tag/development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kate-pyper.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Development</title>
+      <link>https://kate-pyper.github.io/tag/development/</link>
+    </image>
+    
+    <item>
+      <title>End of Semester 2</title>
+      <link>https://kate-pyper.github.io/post/end-of-semester/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://kate-pyper.github.io/post/end-of-semester/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while since I posted anything - semester 2 got away from me a little bit. I thought I would post to sum up how the semester 2 classes went. And reflect a bit on what I am currently working on.&lt;/p&gt;
+&lt;h2 id=&#34;semester-2&#34;&gt;Semester 2&lt;/h2&gt;
+&lt;p&gt;I was involved in teaching two classes this semester: Mathematical and Statistical Computing and Spatial Statistics. Both of these have had feedback collected, so I&amp;rsquo;m using this to reflect on how the semester went and what changes can and should be made to reflect the comments.&lt;/p&gt;
+&lt;h3 id=&#34;mathematical-and-statistical-computing&#34;&gt;Mathematical and Statistical Computing&lt;/h3&gt;
+&lt;p&gt;Mathematical and Statistical computing is an introductory programming class (using R) delivered to second year Maths and stats undergraduate students. This course is usually particularly challenging because it is different to any other classes that they have taken before. I made the decision to be upfront about this. In the introductory session of the class I said that they should expect to find the class hard, and they might feel as though they are struggling, but to keep pushing and asking questions.&lt;/p&gt;
+&lt;p&gt;My colleague and I also decided to spread the materials over more weeks than was given for the MSc students in semester 1, so that they had more time to process the typical threshold concepts (loops - everybody hates loops!) This was definitely wise and the students seemed to appreciate this.&lt;/p&gt;
+&lt;p&gt;The feedback for the class was overall very positive. They felt able to ask questions where they were struggling (which was the goal) and gradually got more independent as the weeks went on. This was really nice to see - I actively encouraged using google and stack exchange as a resource since I knew it would be impossible for me to personally teach every single aspect of R for every possible application. I also wanted them to develop the search engine skills to solve problems on their own. This started out as a grumble, but the students got quite comfortable with it quite quickly.&lt;/p&gt;
+&lt;p&gt;The key criticism of the course was the desire for more video content. I suspect that this was from students who did not attend the live session (although I have no way of knowing that for sure). In the live session I took the key difficult points that were identified in the tutorial session or through student feedback and discussed problems that were relevant to them. These sessions were recorded and placed on the class page, but did not get a huge number of views.&lt;/p&gt;
+&lt;h3 id=&#34;spatial-statistics-face-to-face&#34;&gt;Spatial Statistics (Face-to-Face)&lt;/h3&gt;
+&lt;p&gt;Spatial statistics is designed to give MSc students an insight into analysing spatial data. I am going to be putting this online for a cohort starting in May, so I was filming for that in time to get the videos online for the face to face version. I didn&amp;rsquo;t want to duplicate effort, but that was definitely an intense few weeks!&lt;/p&gt;
+&lt;p&gt;Students usually find this course quite challenging, so I designed it in a fairly structured way that would help to scaffold towards them being able to do a full data analysis. The theoretical concepts were always delivered first via video. Then the methods for applying the theory (in R) were delivered via sets of notes which additionally contained short programming exercises and quizzes. Following this there would be an interactive video where I would demonstrate the code on a data set and ask them to think about their interpretation of the data (which I would then discuss in the video). Then each week they would peform an analysis on spatial data within a supported tutorial session (via Zoom). This was then discussed in more detail in a live session the following week.&lt;/p&gt;
+&lt;p&gt;The class got probably the best feedback I&amp;rsquo;ve ever had. Students appreciated the content that was given and found the explanations really useful. They commented specifically on my use of the VLE being varied and interesting.&lt;/p&gt;
+&lt;p&gt;The key aspects for development based on this were to provide additional description of the context in which you would use the analysis techniques. I did this at the time via forum posts in the weekly Q&amp;amp;A forums, and will build this into future iterations of the class.&lt;/p&gt;
+&lt;h2 id=&#34;current-work&#34;&gt;Current Work&lt;/h2&gt;
+&lt;p&gt;I am going to be delivering both of these classes in the near future for different audiences. I&amp;rsquo;m delivering an introductory R class as CPD starting in April, and delivering Spatial Statistics online starting in mid-May to a small cohort of online MSc students.&lt;/p&gt;
+&lt;h3 id=&#34;introduction-to-programming-in-r-cpd&#34;&gt;Introduction to Programming in R (CPD)&lt;/h3&gt;
+&lt;p&gt;This will run with roughly the same materialas before. It is anticipated that this will run entirely online, so I will be thinking about how to present the live sessions that I would have done face-to-face.&lt;/p&gt;
+&lt;p&gt;I will try to run a weekly drop in session, but may also make the tutorial sheet something that is submitted, so that I can provide some discussion around key mistakes.&lt;/p&gt;
+&lt;h3 id=&#34;spatial-statistics-online&#34;&gt;Spatial Statistics (Online)&lt;/h3&gt;
+&lt;p&gt;The materials for this will be almost identical to those developed for the face-to-face version of the class. The key difference is that the tutorial material for the face-to-face students will become a student submission which I will provide feedback on. For small class sizes, this will be individual, but as class sizes grow, this will be more general feedback to the entire class.&lt;/p&gt;
+&lt;p&gt;I may re-evaluate this in the future if I can find a satisfactory way of giving detailed feedback to each student.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

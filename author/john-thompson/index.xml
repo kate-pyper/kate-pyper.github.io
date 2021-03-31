@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Thompson | Kate Pyper</title>
-    <link>/author/john-thompson/</link>
-      <atom:link href="/author/john-thompson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kate-pyper.github.io/author/john-thompson/</link>
+      <atom:link href="https://kate-pyper.github.io/author/john-thompson/index.xml" rel="self" type="application/rss+xml" />
     <description>John Thompson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kate-pyper.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>John Thompson</title>
-      <link>/author/john-thompson/</link>
+      <link>https://kate-pyper.github.io/author/john-thompson/</link>
     </image>
     
     <item>
       <title>Hospital usage of TOXBASE in Great Britain: Temporal trends in accesses 2008 to 2015</title>
-      <link>/publication/toxbase1/</link>
+      <link>https://kate-pyper.github.io/publication/toxbase1/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/toxbase1/</guid>
+      <guid>https://kate-pyper.github.io/publication/toxbase1/</guid>
       <description></description>
     </item>
     

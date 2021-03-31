@@ -2,21 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Kate Pyper</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kate-pyper.github.io/post/</link>
+      <atom:link href="https://kate-pyper.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kate-pyper.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Blog</title>
-      <link>/post/</link>
+      <link>https://kate-pyper.github.io/post/</link>
     </image>
     
     <item>
+      <title>End of Semester 2</title>
+      <link>https://kate-pyper.github.io/post/end-of-semester/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://kate-pyper.github.io/post/end-of-semester/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while since I posted anything - semester 2 got away from me a little bit. I thought I would post to sum up how the semester 2 classes went. And reflect a bit on what I am currently working on.&lt;/p&gt;
+&lt;h2 id=&#34;semester-2&#34;&gt;Semester 2&lt;/h2&gt;
+&lt;p&gt;I was involved in teaching two classes this semester: Mathematical and Statistical Computing and Spatial Statistics. Both of these have had feedback collected, so I&amp;rsquo;m using this to reflect on how the semester went and what changes can and should be made to reflect the comments.&lt;/p&gt;
+&lt;h3 id=&#34;mathematical-and-statistical-computing&#34;&gt;Mathematical and Statistical Computing&lt;/h3&gt;
+&lt;p&gt;Mathematical and Statistical computing is an introductory programming class (using R) delivered to second year Maths and stats undergraduate students. This course is usually particularly challenging because it is different to any other classes that they have taken before. I made the decision to be upfront about this. In the introductory session of the class I said that they should expect to find the class hard, and they might feel as though they are struggling, but to keep pushing and asking questions.&lt;/p&gt;
+&lt;p&gt;My colleague and I also decided to spread the materials over more weeks than was given for the MSc students in semester 1, so that they had more time to process the typical threshold concepts (loops - everybody hates loops!) This was definitely wise and the students seemed to appreciate this.&lt;/p&gt;
+&lt;p&gt;The feedback for the class was overall very positive. They felt able to ask questions where they were struggling (which was the goal) and gradually got more independent as the weeks went on. This was really nice to see - I actively encouraged using google and stack exchange as a resource since I knew it would be impossible for me to personally teach every single aspect of R for every possible application. I also wanted them to develop the search engine skills to solve problems on their own. This started out as a grumble, but the students got quite comfortable with it quite quickly.&lt;/p&gt;
+&lt;p&gt;The key criticism of the course was the desire for more video content. I suspect that this was from students who did not attend the live session (although I have no way of knowing that for sure). In the live session I took the key difficult points that were identified in the tutorial session or through student feedback and discussed problems that were relevant to them. These sessions were recorded and placed on the class page, but did not get a huge number of views.&lt;/p&gt;
+&lt;h3 id=&#34;spatial-statistics-face-to-face&#34;&gt;Spatial Statistics (Face-to-Face)&lt;/h3&gt;
+&lt;p&gt;Spatial statistics is designed to give MSc students an insight into analysing spatial data. I am going to be putting this online for a cohort starting in May, so I was filming for that in time to get the videos online for the face to face version. I didn&amp;rsquo;t want to duplicate effort, but that was definitely an intense few weeks!&lt;/p&gt;
+&lt;p&gt;Students usually find this course quite challenging, so I designed it in a fairly structured way that would help to scaffold towards them being able to do a full data analysis. The theoretical concepts were always delivered first via video. Then the methods for applying the theory (in R) were delivered via sets of notes which additionally contained short programming exercises and quizzes. Following this there would be an interactive video where I would demonstrate the code on a data set and ask them to think about their interpretation of the data (which I would then discuss in the video). Then each week they would peform an analysis on spatial data within a supported tutorial session (via Zoom). This was then discussed in more detail in a live session the following week.&lt;/p&gt;
+&lt;p&gt;The class got probably the best feedback I&amp;rsquo;ve ever had. Students appreciated the content that was given and found the explanations really useful. They commented specifically on my use of the VLE being varied and interesting.&lt;/p&gt;
+&lt;p&gt;The key aspects for development based on this were to provide additional description of the context in which you would use the analysis techniques. I did this at the time via forum posts in the weekly Q&amp;amp;A forums, and will build this into future iterations of the class.&lt;/p&gt;
+&lt;h2 id=&#34;current-work&#34;&gt;Current Work&lt;/h2&gt;
+&lt;p&gt;I am going to be delivering both of these classes in the near future for different audiences. I&amp;rsquo;m delivering an introductory R class as CPD starting in April, and delivering Spatial Statistics online starting in mid-May to a small cohort of online MSc students.&lt;/p&gt;
+&lt;h3 id=&#34;introduction-to-programming-in-r-cpd&#34;&gt;Introduction to Programming in R (CPD)&lt;/h3&gt;
+&lt;p&gt;This will run with roughly the same materialas before. It is anticipated that this will run entirely online, so I will be thinking about how to present the live sessions that I would have done face-to-face.&lt;/p&gt;
+&lt;p&gt;I will try to run a weekly drop in session, but may also make the tutorial sheet something that is submitted, so that I can provide some discussion around key mistakes.&lt;/p&gt;
+&lt;h3 id=&#34;spatial-statistics-online&#34;&gt;Spatial Statistics (Online)&lt;/h3&gt;
+&lt;p&gt;The materials for this will be almost identical to those developed for the face-to-face version of the class. The key difference is that the tutorial material for the face-to-face students will become a student submission which I will provide feedback on. For small class sizes, this will be individual, but as class sizes grow, this will be more general feedback to the entire class.&lt;/p&gt;
+&lt;p&gt;I may re-evaluate this in the future if I can find a satisfactory way of giving detailed feedback to each student.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Year, New Classes</title>
-      <link>/post/new-year-new-classes/</link>
+      <link>https://kate-pyper.github.io/post/new-year-new-classes/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/post/new-year-new-classes/</guid>
+      <guid>https://kate-pyper.github.io/post/new-year-new-classes/</guid>
       <description>&lt;p&gt;Following a slightly extended Christmas break, I&amp;rsquo;ve returned to work feeling refreshed. This semester is going to be (if possible) even busier than last. In Scotland we&amp;rsquo;ve been placed back into lockdown, and no-one is particularly sure when it will be lifted.&lt;/p&gt;
 &lt;p&gt;I wasn&amp;rsquo;t as active with this as I had hoped last semester - there seemed to be too much going on and I admittedly found myself a bit overwhelmed. Admittedly not helped by the fact that I didn&amp;rsquo;t leave the house which was predictably not great from a mental health perspective! However new year new me - I&amp;rsquo;ve decided to commute from home to home by going for a walk before and after work and I&amp;rsquo;m optimistic that I&amp;rsquo;ll keep up with this blog a bit more regularly.&lt;/p&gt;
 &lt;p&gt;I have a lot going on this semester. I&amp;rsquo;ve noted the key teaching related items below.&lt;/p&gt;
@@ -45,9 +74,9 @@
     
     <item>
       <title>Part 1 Reflection</title>
-      <link>/post/part-1-reflection/</link>
+      <link>https://kate-pyper.github.io/post/part-1-reflection/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/part-1-reflection/</guid>
+      <guid>https://kate-pyper.github.io/post/part-1-reflection/</guid>
       <description>&lt;p&gt;The first half is finished, so the new material is all online and the assessment has been completed. I wanted to take a bit of time to reflect on my experiences (the good and the bad) and take a look at what could be improved. I had hoped to be able to post here more often, but these past few weeks have been a complete whirlwind, and I don&amp;rsquo;t think I&amp;rsquo;ve ever been so busy/stressed/exhausted.&lt;/p&gt;
 &lt;h2 id=&#34;the-good&#34;&gt;The Good&lt;/h2&gt;
 &lt;p&gt;Having spoken to the students and looked at the weekly reflections and the Q&amp;amp;A forums, it genuinely seems that students have had an overall positive experience learning how to program with R. In general that students have engaged well with the materials and I&amp;rsquo;ve been asked some really interesting questions along the way. I&amp;rsquo;ve outlined some of the specific things that were highlighted by students as being particularly useful.&lt;/p&gt;
@@ -77,9 +106,9 @@
     
     <item>
       <title>Week 1 &amp; 2 Reflection</title>
-      <link>/post/week-1-reflection/</link>
+      <link>https://kate-pyper.github.io/post/week-1-reflection/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/week-1-reflection/</guid>
+      <guid>https://kate-pyper.github.io/post/week-1-reflection/</guid>
       <description>&lt;p&gt;The first 2 weeks are done, with far less tech issues than anticipated. I just wanted to take some time to reflect on how it has gone so far.&lt;/p&gt;
 &lt;h2 id=&#34;positives&#34;&gt;Positives&lt;/h2&gt;
 &lt;p&gt;The positives greatly outweigh the negatives which is a very nice position to be in. This is based on my overall impression of how it&amp;rsquo;s gone, as well as the weekly feedback from the students.&lt;/p&gt;
@@ -105,9 +134,9 @@
     
     <item>
       <title>It&#39;s Nearly Showtime</title>
-      <link>/post/nearly-showtime/</link>
+      <link>https://kate-pyper.github.io/post/nearly-showtime/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/nearly-showtime/</guid>
+      <guid>https://kate-pyper.github.io/post/nearly-showtime/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve just entered week 0 (the induction week) of the semester here at Strathclyde, and I&amp;rsquo;ve been working more than usual trying to get good quality content online for the upcoming semester. The first two weeks&amp;rsquo; worth of material is ready to go but there&amp;rsquo;s still 8 weeks left to do - I&amp;rsquo;m definitely not kidding myself that this semester is going to be straightforward.&lt;/p&gt;
 &lt;p&gt;This is going to be a reasonably short post, but i&amp;rsquo;m going to pin point some things that I&amp;rsquo;ve been doing over the past few weeks (some of which to help the students and some because I&amp;rsquo;m a perfectionist and can&amp;rsquo;t help myself).&lt;/p&gt;
 &lt;h3 id=&#34;making-materials-for-offline-as-well-as-online&#34;&gt;Making materials for offline as well as online&lt;/h3&gt;
@@ -118,7 +147,7 @@
 &lt;p&gt;I&amp;rsquo;ve tried to keep a fairly consistent weekly structure, with each week being visually similar to each other. Each week starts with a description of the learning objectives, followed by the materials and links to the live zoom sessions that are available each week (see below).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./LO_general.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The end of the week is also pretty consistent, and consists of the student reflection exercise discussed 
-&lt;a href=&#34;/post/student-reflection-for-feedback/&#34;&gt;in one of my previous posts&lt;/a&gt;, as well as a weekly formative assessment in the form of either a quiz or a submission as shown below.&lt;/p&gt;
+&lt;a href=&#34;https://kate-pyper.github.io/post/student-reflection-for-feedback/&#34;&gt;in one of my previous posts&lt;/a&gt;, as well as a weekly formative assessment in the form of either a quiz or a submission as shown below.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./summary_materials.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;During the week the students will work through a number of activities (I&amp;rsquo;m aiming for somewhere between 6 and 10). Those which contain a lot of information are contained in lessons and those which contain smaller (but no less important) points are contained within pages as demonstrated below.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./Activities.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -142,11 +171,11 @@
     
     <item>
       <title>Providing Valuable Feedback Online</title>
-      <link>/post/giving-feedback-online/</link>
+      <link>https://kate-pyper.github.io/post/giving-feedback-online/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/giving-feedback-online/</guid>
+      <guid>https://kate-pyper.github.io/post/giving-feedback-online/</guid>
       <description>&lt;p&gt;In my 
-&lt;a href=&#34;/post/student-reflection-for-feedback/&#34;&gt;last post&lt;/a&gt; I was thinking about how to get useful feedback from students by asking them to reflect on their learning once a week. This week I&amp;rsquo;m going to make a note on the mechanisms that I have put in place for students to get feedback on their own work.&lt;/p&gt;
+&lt;a href=&#34;https://kate-pyper.github.io/post/student-reflection-for-feedback/&#34;&gt;last post&lt;/a&gt; I was thinking about how to get useful feedback from students by asking them to reflect on their learning once a week. This week I&amp;rsquo;m going to make a note on the mechanisms that I have put in place for students to get feedback on their own work.&lt;/p&gt;
 &lt;p&gt;The trickiest part of this for me has been trying to balance giving valuable and insightful feedback with maintaining a reasonable work load. Initially I had thought about asking students to submit an assignment each week that I would mark and give back to them, but it was pointed out by one of my colleagues that this would be a lot of work for me each week. I&amp;rsquo;ve tried to find something that falls somewhere in the middle of that balance, with a mixture of opportunities for automated feedback and more personalised feedback, as well as assessment being provided in multiple different forms.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/02602938.2012.691462?casa_token=dC_YZ5qUeTcAAAAA%3AxwI4kl-TEUpXwNiKxAxMDatzSqVBrgT_7DfWEUXTltJqBDkMP0W1JMpdey0zj4BBsKR7J8OSJZeQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This article&lt;/a&gt; highlights the importance of allowing students space to reflect on their learning (which I&amp;rsquo;m doing), as well as providing various mechanisms for feedback. With that in mind I am proposing three main broad opportunities for feedback which I&amp;rsquo;ve described below. Each of these broad categories will have multiple activity types associated with them.&lt;/p&gt;
@@ -175,9 +204,9 @@
     
     <item>
       <title>Getting Feedback from Student Reflection</title>
-      <link>/post/student-reflection-for-feedback/</link>
+      <link>https://kate-pyper.github.io/post/student-reflection-for-feedback/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/student-reflection-for-feedback/</guid>
+      <guid>https://kate-pyper.github.io/post/student-reflection-for-feedback/</guid>
       <description>&lt;p&gt;In my quest to provide a happy and helpful virtual classroom, I&amp;rsquo;ve recently been thinking a lot about feedback. I know that it is important for me to give students timely and useful feedback, and I&amp;rsquo;m building that in to various aspects of the class. I&amp;rsquo;ve recently been focussed on getting useful feedback from students.&lt;/p&gt;
 &lt;p&gt;I remember being an undergrad student and being asked at the end of a course to fill out a feedback form. I also remember finding that really annoying because I don&amp;rsquo;t get to see the benefit of any of that feedback. I wanted to make the effort to change things that students needed help with as the course progressed.&lt;/p&gt;
 &lt;p&gt;In my regression class last year I tried to collect more feedback, and asked students to fill in a short (four questions) questionnaire each week online. This wasn&amp;rsquo;t particularly successful - out of a class of around 200 I would get around 10 responses each week. However, I will say that the responses the I did get helped me to either make useful changes to the course material (e.g. adding video content or additional exercises where people highlighted issues) or to address why I was teaching things in a particular way.&lt;/p&gt;
@@ -201,7 +230,7 @@
 &lt;p&gt;&lt;img src=&#34;./Materials.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I have tried to be careful with the wording of these questions, so that they take me out of the equation and put the ownership onto the students and what they want.&lt;/p&gt;
 &lt;p&gt;The first two questions are grouped together, and identify the concepts that students want more information about. This allows the students to identify areas where they need to focus their energy, and will also give me the opportunity to update materials where indicated by several students, or add information to the Q&amp;amp;A thread discussed 
-&lt;a href=&#34;/post/first-step-to-blended/&#34;&gt;in my previous post&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://kate-pyper.github.io/post/first-step-to-blended/&#34;&gt;in my previous post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The next question asks students to identify activities that they have found most useful. This will encourage the students to think about what they have found more straightforward. By asking &amp;ldquo;Why?&amp;rdquo; I&amp;rsquo;m trying to encourage information about specifically what is good. I can then use this information to enrich other activities.&lt;/p&gt;
 &lt;p&gt;The final question asks students about what acitivites could be (should be?) improved. This will (I hope) help students to identify sticking points in the materials, and will help them to develop an understanding of how they learn best. I am trying to ellicit a bit more information by asking what they would change about the activity. This information, again will be valuable in helping me to identify things in each activity that I should by trying to avoid doing (and potentially replace these aspects with ideas from the previous question.)&lt;/p&gt;
 &lt;h2 id=&#34;other-aspects-of-feedback&#34;&gt;Other Aspects of Feedback&lt;/h2&gt;
@@ -219,9 +248,9 @@
     
     <item>
       <title>The Initial Step Towards a Blended Classroom</title>
-      <link>/post/first-step-to-blended/</link>
+      <link>https://kate-pyper.github.io/post/first-step-to-blended/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/first-step-to-blended/</guid>
+      <guid>https://kate-pyper.github.io/post/first-step-to-blended/</guid>
       <description>&lt;p&gt;This is my first ever blog post. I decided to start a blog to give me a place to write down some thoughts on my teaching, particularly as we head into a unique year thanks to Covid!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m doing a PGCert in learning and teaching in higher education and have now taken 40 credits worth of classes. I&amp;rsquo;m really interested in the different teaching and learning pedagogies and wanted to try something totally new. Specifically I&amp;rsquo;m keen to implement blended learning in my classes, which isn&amp;rsquo;t currently the norm in my department.&lt;/p&gt;
 &lt;p&gt;If I&amp;rsquo;ve learned anything from my PGCert so far it&amp;rsquo;s that reflecting on teaching practice is really important. For context, I&amp;rsquo;ve taken over a class for the next academic year that has been in its current state since its creation (around 10 years ago I think) and I&amp;rsquo;m keen to make some fairly big changes to it. I&amp;rsquo;m definitely expecting some challenges to pop up along the way and wanted to have a dedicated space to keep track of the changes that I&amp;rsquo;ve made, along with my successes and failures. If anyone happens to come across this and have a bit of discussion around anything then that&amp;rsquo;s definitely a bonus!&lt;/p&gt;
